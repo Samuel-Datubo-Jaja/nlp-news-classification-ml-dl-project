@@ -27,6 +27,13 @@ Python, TensorFlow, Keras, scikit-learn, NLTK, pandas, matplotlib
 ![roc_curve](https://github.com/user-attachments/assets/3341a538-e392-4a95-a260-ebb942cf4b8b)
 ![precision_recall_curve](https://github.com/user-attachments/assets/ee8ed05e-562b-4a27-a1a7-4923ca9a1b3b)
 
+![ROC_AUC](https://github.com/user-attachments/assets/4b6f90bc-43f9-4f23-ac6e-0cf6494ee388)
+![Accuracy Plot](https://github.com/user-attachments/assets/bf0318a0-095e-4e6a-bc4e-48331a359e81)
+![Validation Loss](https://github.com/user-attachments/assets/7834adab-1d1d-488a-87f2-6ebb36331aaf)
+
+
+
+
 
 
 
