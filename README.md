@@ -19,5 +19,20 @@ I implemented and compared multiple text classification models for categorizing 
 ## Technologies: 
 Python, TensorFlow, Keras, scikit-learn, NLTK, pandas, matplotlib
 
+## Visualization
+![Word_Cloud_Categories](https://github.com/user-attachments/assets/ccb414e1-867a-4b1b-b14c-8e56eed2b959)
+![AG_News_Class_Distribution](https://github.com/user-attachments/assets/f0d0cfef-a530-4e4d-9aa5-47f1d92210a0)
+![confusion_matrix](https://github.com/user-attachments/assets/1c666623-9ab9-4da0-b3ee-9af2825a0e03)
+![misclassification_analysis](https://github.com/user-attachments/assets/4cce2cf7-21e9-493b-85fb-7eb8eee5be84)
+![roc_curve](https://github.com/user-attachments/assets/3341a538-e392-4a95-a260-ebb942cf4b8b)
+![precision_recall_curve](https://github.com/user-attachments/assets/ee8ed05e-562b-4a27-a1a7-4923ca9a1b3b)
+
+
+
+
+
+
+
+
 
 
